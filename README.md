@@ -4,4 +4,4 @@ This repository contains generated static files for the public visual review cat
 The game source code and development repository are private and are not included here.
 This repository is updated from generated catalog builds.
 
-Source catalog build: f64323f
+Source catalog build: d5d5f6c
